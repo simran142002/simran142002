@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simran142002" alt="simran142002" /></a> </p>
 
-- 👨‍💻 Reach me out [https://www.linkedin.com/in/nigamsimran/ nigamsimran14@gmail.com](https://www.linkedin.com/in/nigamsimran/ nigamsimran14@gmail.com)
-
 - 📝 Find my articles on [https://technopions.blogspot.com/2022/07/project-management-what-why-how.html](https://technopions.blogspot.com/2022/07/project-management-what-why-how.html)
 
 - 💬 Ask me about **Angular, javascript, firebase and more**
