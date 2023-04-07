@@ -5,7 +5,7 @@
 
 - 📝 Find my articles on [https://technopions.blogspot.com/2022/07/project-management-what-why-how.html](https://technopions.blogspot.com/2022/07/project-management-what-why-how.html)
 
-- 💬 Ask me about **Angular, javascript, firebase and more**
+- 💬 Ask me about **Angular, javascript, firebase, php, sql and more**
 
 - 📫 How to reach me **nigamsimran14@gmail.com**
 
