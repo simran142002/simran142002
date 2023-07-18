@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nigamsimran14@gmail.com**
 
-- 📄 Know about my experiences [@Worktez](@Worktez)
+- 📄 Know about my experiences [@Worktez](@Worktez) [@C4GT'23](@C4GT'23)   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
